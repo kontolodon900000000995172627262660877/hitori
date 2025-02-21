@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner
+global.owner = ['6285718004645'] //['628','628'] 2 owner
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'ZammDev'
+global.botname = 'Zamm Bot'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -36,7 +36,7 @@ global.my = {
 
 global.limit = {
 	free: 20,
-	premium: 999,
+	premium: 9999,
 	vip: 9999
 }
 
@@ -48,15 +48,15 @@ global.uang = {
 
 global.mess = {
 	key0: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
-	owner: 'Fitur Khusus Owner!',
-	admin: 'Fitur Khusus Admin!',
-	botAdmin: 'Bot Bukan Admin!',
-	group: 'Gunakan Di Group!',
-	private: 'Gunakan Di Privat Chat!',
-	limit: 'Limit Anda Telah Habis!',
-	prem: 'Khusus User Premium!',
+	owner: 'Yang Bisa Owner Doang Bego',
+	admin: 'Lu Bukan Admin',
+	botAdmin: 'Gw Bukan Admin!',
+	group: 'Pake Di Group!',
+	private: 'PM',
+	limit: 'Limit Lu Habis!',
+	prem: 'Prem Only',
 	wait: 'Loading...',
-	error: 'Error!',
+	error: 'Error Cok',
 	done: 'Done'
 }
 
